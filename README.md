@@ -1,6 +1,6 @@
 # Hacking-Heist-MLH
 
-##Usage
+## Usage
 clone the repository and enter the new directory:
 ```shell
 git clone https://github.com/Code-Invaders-007/Hacking-Heist-MLH.git
@@ -16,7 +16,7 @@ npm run dev
 ```
 
 this will open localhost in your default browser
-###output
+### output
 ```shell
   vite v2.4.3 dev server running at:
 
@@ -26,7 +26,7 @@ this will open localhost in your default browser
   ready in 234ms.
 ```
 
-##uploading the file
+## uploading the file
 
 You can upload a file to the website just by click on the button saying select a file to upload
 
