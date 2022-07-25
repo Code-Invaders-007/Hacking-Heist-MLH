@@ -4,6 +4,7 @@
 clone the repository and enter the new directory:
 ```shell
 git clone https://github.com/Code-Invaders-007/Hacking-Heist-MLH.git
+cd Hacking-Heist-MLH.git
 cd D-Drive
 ```
 install dependencies:
